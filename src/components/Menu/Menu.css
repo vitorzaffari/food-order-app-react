@@ -1,0 +1,9 @@
+.menu-component{
+    /* border: 1px solid rgba(255, 255, 255, 0.267); */
+    max-width: 1500px;
+    margin: 0 auto;
+    margin-top: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
