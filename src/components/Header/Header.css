@@ -1,8 +1,8 @@
 .header-component {
-    height: 7rem;
+    height: 5rem;
     color: rgb(255, 255, 255);
-    background-color: rgba(255, 255, 255, 0.1);
-    box-shadow: 0px 8px 3px #00000010;    
+    background-color: rgba(255, 255, 255, 0);
+    box-shadow: 0px 4px 3px #00000010;    
     position: relative;
 
 
@@ -22,14 +22,13 @@
             gap: 1rem;
 
             .app-icon-img {
-                width: 70px;
+                width: 50px;
             }
 
             & span{
                 font-size: 1.3rem;
-                color: rgb(255, 255, 255);
+                color: rgb(0, 0, 0);
                 font-weight: 600;
-                text-shadow: 2px 2px 3px #00000020;
             }
         }
  
